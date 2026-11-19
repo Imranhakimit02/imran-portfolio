@@ -1398,7 +1398,7 @@ button,a,summary {
 .project-photo {
   display: block;
   width: 100%;
-  height: 280px;
+  height: auto;
   object-fit: cover;
   object-position: center 40%;
   border-bottom: 1px solid var(--border);
